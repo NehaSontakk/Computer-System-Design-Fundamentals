@@ -7,3 +7,7 @@ Goal of the course is to create a complete computer system using just the univer
 ## 1: Basic Gates in Hardware Simulator
 
 NOT, AND, OR, NOR, XOR Gates using the universal NAND gate. The code is written in .hdl files that represent basic chip files in the hardware simulator
+
+## 2: Operations using basic gates
+
+Multiplexer and De-multiplexer using the basic gates created previously.
