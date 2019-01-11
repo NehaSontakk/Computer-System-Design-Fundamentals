@@ -1,0 +1,20 @@
+/// File name: projects/01/Mux.hdl
+/** 
+ * Multiplexor:
+ * out = a if sel == 0
+ *       b otherwise
+ */
+
+CHIP Mux {
+    IN a, b, sel;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+	Not(in=sel,out=w1);
+	And(a=a,b=w1,out=w2);	//And 1
+	And(a=sel,b=b,out=w3);	//And 2
+	Or(a=w2,b=w3,out=out);
+}
+
+//The gates we use are the basic gates we created using just NAND
