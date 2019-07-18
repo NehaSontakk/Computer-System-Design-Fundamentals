@@ -1,4 +1,4 @@
-# Computer-System-Design-Fundamentals
+# Computer-System-Design-Fundamentals :computer:
 
 The basic assignments suggested on the NPTEL course fundamnetals of computer system design.
 The course uses a hardware simulator from the website https://www.nand2tetris.org/software.
