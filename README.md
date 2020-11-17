@@ -17,3 +17,11 @@ Multiplexer and De-multiplexer using the basic gates created previously.
 ## 3: Boolean Arithmetic 
 
 Using Basic gate and Multiplexers created before create arithmetic devices: Half Adder, Incrementer 16 bit, Full Adder, ALU.
+
+## 4: Multi Way Gates
+
+Building MUX 8 way, DMUX 8 and 4 way, Or gate 8 way.
+
+## 5: Mulit Input and Output Aggregates 
+
+MUX and DMUX 4 way 16 and 8 way 16.
